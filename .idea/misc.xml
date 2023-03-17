@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/TouREST/res/layout-v17/add1.xml" value="0.17708333333333334" />
+        <entry key="..\:/Projects/TouREST/res/layout-v17/get_desired_destination.xml" value="0.17708333333333334" />
+        <entry key="..\:/Projects/TouREST/res/layout-v17/loginform.xml" value="0.17708333333333334" />
+        <entry key="..\:/Projects/TouREST/res/menu/activity_main_drawer.xml" value="0.2515625" />
+        <entry key="..\:/Projects/TouREST/res/menu/admin.xml" value="0.2515625" />
+        <entry key="..\:/Projects/TouREST/res/menu/pop_up.xml" value="0.2515625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
